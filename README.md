@@ -1,4 +1,5 @@
-# HaloScope-style Hallucination Detection (Reimplementation) - Prof. Sharon Li's Thesis on HaloScope
+# HaloScope-style Hallucination Detection (Reimplementation) 
+# - Prof. Sharon Li's Thesis on HaloScope (University of Wisconsin - Madison) 
 
 This repository contains an end-to-end reimplementation of a HaloScope-inspired
 pipeline for detecting hallucinated LLM answers using embedding geometry and
