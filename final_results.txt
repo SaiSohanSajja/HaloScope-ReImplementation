@@ -1,0 +1,12 @@
+FINAL OUTPUT (SOFT LABELS)
+VAL  Accuracy: 0.6100
+VAL  AUROC:    0.6627
+VAL Confusion:
+[[34 32]
+ [ 7 27]]
+
+TEST Accuracy: 0.5800
+TEST AUROC:    0.5778
+TEST Confusion:
+[[84 49]
+ [35 32]]
